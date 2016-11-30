@@ -1,4 +1,4 @@
-# GSite-Theme
+# GSite Theme
 
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes` and your sass in `_sass`. To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
 
@@ -9,13 +9,13 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "GSite-Theme"
+gem "GSite"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: GSite-Theme
+theme: GSite
 ```
 
 And then execute:
@@ -24,7 +24,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install GSite-Theme
+    $ gem install GSite
 
 ## Usage
 
